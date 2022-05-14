@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" title="JavaScript" alt="Hamilton-Js" src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" title="Java" alt="Hamilton-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" title="Java" alt="Hamilton-Java" src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" title="Python" alt="Hamilton-Python" src="https://img.shields.io/badge/-Python-ff69b4?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 <hr>
 <div align="center">
